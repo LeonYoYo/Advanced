@@ -8,7 +8,7 @@ bin-release/
 .settings/
 
 # dependencies
-/node_modules
+/fed-e-task-01-01/code/node_modules
 
 # Executables
 *.swf
