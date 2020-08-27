@@ -7,11 +7,20 @@ bin-release/
 # Other files and folders
 .settings/
 
+# dependencies
+/node_modules
+
 # Executables
 *.swf
 *.air
 *.ipa
 *.apk
+
+# System Files
+.DS_Store
+Thumbs.db
+yarn.lock
+package-lock.json
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
