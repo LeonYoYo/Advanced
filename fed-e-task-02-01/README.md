@@ -25,19 +25,24 @@
 + 将渲染结果写入目标路径中
 
 [代码][1]
+[文档][2]
 
 ##### 2、尝试使用 Gulp 完成项目的自动化构建
 
-[代码][2]
+[代码][3]
+[代码][4]
 
 ##### 3、使用 Grunt 完成项目的自动化构建
 
-[代码][3]
+[代码][5]
+[代码][6]
 
-[1]:http://www.google.com 
-[2]:http://www.leanote.com
+[1]:https://github.com/LeonYoYo/Advanced/tree/master/fed-e-task-02-01/code/generator-practice-proj 
+[2]:https://github.com/LeonYoYo/Advanced/blob/master/fed-e-task-02-01/notes/generator-practice-proj.md
 [3]:http://www.baidu.com
-
+[4]:http://www.baidu.com
+[5]:http://www.baidu.com
+[6]:http://www.baidu.com
 
 ## 2-3 题项目基础代码下载地址：
 
@@ -54,6 +59,3 @@ https://pan.baidu.com/s/1AyGApMTFEfCeGfQBdykOGg
 
 最终将录制的视频或说明文档和代码统一提交至作业仓库。
 
-https://gitee.com/royrun/fed-e-task-02-01
-
-https://github.com/ValenW/fed-e-task-02-01
