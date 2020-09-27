@@ -1,0 +1,10 @@
+{
+  "name": "generator-practice-proj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chenchen",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
+}
