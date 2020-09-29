@@ -23,6 +23,9 @@ $ yarn link
 $ yo practice-proj
 安装成功，成功创建index.html,style.css文件
 ```
+
+**打包发布**
+npm publish 发布脚手架到npm官网
  
 
 
