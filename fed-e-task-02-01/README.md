@@ -1,6 +1,6 @@
 ## 简答题
 ##### 1、谈谈你对工程化的初步认识，结合你之前遇到过的问题说出三个以上工程化能够解决问题或者带来的价值。
-> 工程化的即通过一种高效率、低成本、保证质量为目的的方式完成项目开发。
+工程化的即通过一种高效率、低成本、保证质量为目的的方式完成项目开发。
 
 工程化解决的问题：
   * 解决项目中引入ES6、SASS、LESS、PostCss等工具的使用问题
@@ -30,32 +30,16 @@
 ##### 2、尝试使用 Gulp 完成项目的自动化构建
 
 [代码][3]
-[代码][4]
+[文档][4]
 
 ##### 3、使用 Grunt 完成项目的自动化构建
 
 [代码][5]
-[代码][6]
+[文档][6]
 
 [1]:https://github.com/LeonYoYo/Advanced/tree/master/fed-e-task-02-01/code/generator-practice-proj 
 [2]:https://github.com/LeonYoYo/Advanced/blob/master/fed-e-task-02-01/notes/generator-practice-proj.md
-[3]:http://www.baidu.com
-[4]:http://www.baidu.com
-[5]:http://www.baidu.com
-[6]:http://www.baidu.com
-
-## 2-3 题项目基础代码下载地址：
-
-百度网盘：
-
-https://pan.baidu.com/s/1AyGApMTFEfCeGfQBdykOGg 
-提取码: bw3r
-
-说明：
-本次作业中的编程题要求大家完成相应代码后（二选一）
-
-1.  简单录制一个小视频介绍一下实现思路，并演示一下相关功能。
-2.  提交一个项目说明文档，要求思路流程清晰。
-
-最终将录制的视频或说明文档和代码统一提交至作业仓库。
-
+[3]:https://github.com/LeonYoYo/Advanced/blob/master/fed-e-task-02-01/code/gulp/gulpfile.js
+[4]:https://github.com/LeonYoYo/Advanced/blob/master/fed-e-task-02-01/notes/gulp.md
+[5]:https://github.com/LeonYoYo/Advanced/blob/master/fed-e-task-02-01/code/grunt/gruntfile.js
+[6]:https://github.com/LeonYoYo/Advanced/blob/master/fed-e-task-02-01/notes/grunt.md
